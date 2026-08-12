@@ -1,0 +1,15 @@
+{
+  "name": "ptip",
+  "version": "0.1.0",
+  "description": "Paul Tiplady's reusable personal workflows.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "ptip",
+    "shortDescription": "Reusable personal workflows",
+    "developerName": "Paul Tiplady",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Use Explore to start or continue a living exploration project."
+    ]
+  }
+}

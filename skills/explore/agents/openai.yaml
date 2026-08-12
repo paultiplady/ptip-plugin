@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explore"
+  short_description: "Maintain living exploration projects"
+  default_prompt: "Use $explore to start or continue an exploration project for this topic."
